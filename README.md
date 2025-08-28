@@ -8,10 +8,8 @@
 ---
 
 ### 💻 About Me
-- I turn coffee into code ☕💻 and ideas into reality. Always learning, always building.  
-- Passionate about creating scalable, clean, and efficient web applications.  
-- Lifelong learner, problem solver, and tech enthusiast.  
-- **Location:** Jashore, Bangladesh  
+I turn coffee into code ☕💻 and ideas into reality. Always learning, always building.  
+**Location:** Jashore, Bangladesh  
 
 ---
 
@@ -27,25 +25,28 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects (Placeholders)
 | Project | Description | Tech |
 |---------|-------------|------|
 | Project 1 | Short description here | React, Laravel |
 | Project 2 | Short description here | PHP, MySQL |
 | Project 3 | Short description here | Bootstrap, Tailwind |
 
-*Add links to live projects or GitHub repos as needed.*  
+*You can update these later with real projects and links.*  
 
 ---
 
 ### ✨ Fun Fact
-I love coding, learning new technologies, and experimenting with ideas to create impactful projects!  
+I love coding, learning new technologies, and turning ideas into impactful projects!  
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Rakibul-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Rakibul-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/rakibul2242/"><img src="https://img.shields.io/badge/LinkedIn-Rakibul-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:mdrakibulislam2242@gmail.com"><img src="https://img.shields.io/badge/Email-Email-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/Rakibul2242"><img src="https://img.shields.io/badge/GitHub-Rakibul-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/rakibul0224"><img src="https://img.shields.io/badge/Facebook-Rakibul-blue?style=for-the-badge&logo=facebook" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/rakibul0224/"><img src="https://img.shields.io/badge/Instagram-Rakibul-purple?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+  <a href="https://x.com/Rakibul_002"><img src="https://img.shields.io/badge/X-Rakibul-blue?style=for-the-badge&logo=twitter" alt="X"/></a>
 </p>
