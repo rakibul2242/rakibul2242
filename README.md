@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP56WjZ4z3JkFi/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+Rakibul+Islam;Junior+Software+Engineer;Web+Developer"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm MD Rakibul Islam</h1>
-<p align="center">Junior Software Engineer | Web Developer</p>
 
 ---
 
